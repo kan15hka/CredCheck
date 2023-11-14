@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857370261728",
+    "project_id": "credcheck-22065",
+    "storage_bucket": "credcheck-22065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857370261728:android:fd89b4ed0ecffeba3cb885",
+        "android_client_info": {
+          "package_name": "com.example.credcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGjD3FmwWbPFJOquEKKNIgNY9vK8hHJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
